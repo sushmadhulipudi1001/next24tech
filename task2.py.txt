@@ -35,7 +35,7 @@ pairs = [
     ],
     [
         r"(.*) created you?",
-        ["I was assigned by Next24Technology and created by Surya2004."]
+        ["I was assigned by Next24Technology and created by Sushma2005."]
     ],
     [
         r"(.*) (location|city)?",
