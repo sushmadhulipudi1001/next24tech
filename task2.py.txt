@@ -1,7 +1,8 @@
+
 import nltk
 from nltk.chat.util import Chat, reflections
 
-
+# Ensure 'punkt' is available before using it
 nltk.download('punkt')
 
 pairs = [
@@ -69,5 +70,5 @@ def chatbot_interface():
         print(f"Chatbot: {response}")
 
 # Run the chatbot interface
-if __name__ == "_main_":
+if __name__ == "__main__":
     chatbot_interface()
